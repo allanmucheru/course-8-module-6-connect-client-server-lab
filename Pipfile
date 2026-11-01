@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-flask = "*"
 pytest = "*"
+flask = "*"
 flask-cors = "*"
 
 [dev-packages]
